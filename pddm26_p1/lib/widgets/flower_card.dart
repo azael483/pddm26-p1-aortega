@@ -49,12 +49,6 @@ class FlowerCard extends StatelessWidget {
                   color: const Color(0xFFFFEAF0),
                   borderRadius: BorderRadius.circular(14),
                 ),
-                child: Center(
-                  child: Text(
-                    flower.emoji,
-                    style: const TextStyle(fontSize: 55),
-                  ),
-                ),
               ),
             ),
 
